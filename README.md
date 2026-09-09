@@ -1,8 +1,4 @@
-Sure — here it is in clean **Markdown (`.md`) format**, ready to copy into a `.md` file:
-
 # Node.js Storefront API Learning Guide
-
-**Rating: 4/5**
 
 ## What Was Built
 
@@ -297,5 +293,3 @@ The following areas can be explored further to improve backend knowledge:
 I built a documented e-commerce REST API using Node.js, Express, Prisma, and SQLite. The project helped me gain practical experience with routing, middleware, request and response handling, JWT authentication, role-based authorization, database CRUD operations, cart and order workflows, validation, error handling, security basics, logging, testing, environment configuration, and Swagger/OpenAPI.
 
 My next goal is to build deeper knowledge in production-level areas such as deployment, testing, security, performance, and scalable API design.
-
-You can save the content directly as **`NodeJS-Storefront-API-Learning-Guide.md`**.
