@@ -1,7 +1,7 @@
 module.exports = {
   openapi: '3.0.3',
   info: { title: 'Storefront API', version: '1.0.0', description: 'A Node.js, Express, Prisma, and SQLite e-commerce learning API.' },
-  servers: [{ url: 'http://localhost:3000', description: 'Local development server' }],
+  servers: [{ url: '/', description: 'Current server' }],
   tags: [{ name: 'Health' }, { name: 'Auth' }, { name: 'Products' }, { name: 'Cart' }, { name: 'Orders' }],
   paths: {
     '/api/health': { get: { tags: ['Health'], summary: 'Check API health', responses: { 200: { description: 'API is available' } } } },
